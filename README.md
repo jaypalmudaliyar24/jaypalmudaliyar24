@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on creating unique and amazing projects on any tech stack.
 - 🤔 I’m looking for help with learning new technologies to become a full stack developer / Software Engineer.
 - 💬 Ask me about Competitive Programming and DSA/Interview Preparation related stuff.
-- 📫 How to reach me: Twitter - @jaypal_m24
+- 📫 How to reach me: [Twitter - @jaypal_m24](https://twitter.com/jaypal_m24)
 - 😄 Pronouns: He/His
 <!-- - ⚡ Fun fact: 
 -->
