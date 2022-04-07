@@ -15,6 +15,18 @@ Here are some ideas to get you started: -->
 <!-- - ⚡ Fun fact: 
 -->
 
+---
+
+<p>
+  <b><i>📫 How to reach me: </i></b>
+
+ 
+  [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white">][LinkedIn]
+</p>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
@@ -33,4 +45,7 @@ Here are some ideas to get you started: -->
 
 ![Jaypal Mudaliyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypalmudaliyar24&show_icons=true&theme=flag-india)
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypalmudaliyar24&show_icons=true&locale=en&layout=compact" alt="jaypalmudaliyar24" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypalmudaliyar24&show_icons=true&locale=en&layout=compact" alt="jaypalmudaliyar24" />
+
+[gmail]: mailto:jaypal.internapply@gmail.com
+[linkedin]: https://www.linkedin.com/in/jaypal-m-167a30194/
