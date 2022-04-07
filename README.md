@@ -15,4 +15,6 @@ Here are some ideas to get you started: -->
 <!-- - ⚡ Fun fact: 
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=jaypalmudaliyar24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
+![Jaypal Mudaliyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypalmudaliyar24&show_icons=true&theme=flag-india)
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypalmudaliyar24&show_icons=true&locale=en&layout=compact" alt="jaypalmudaliyar24" />
