@@ -47,5 +47,5 @@ Here are some ideas to get you started: -->
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypalmudaliyar24&show_icons=true&locale=en&layout=compact" alt="jaypalmudaliyar24" />
 
-[gmail]: mailto:jaypal.internapply@gmail.com
+[gmail]: mailto:jaypal.m.cse@gmail.com
 [linkedin]: https://www.linkedin.com/in/jaypal-m-167a30194/
